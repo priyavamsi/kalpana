@@ -4,6 +4,6 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <model version> 4.0.0</model version>
 <groupId>batch</groupId>
 <artifactId>devops</artifactId>
-<version>0.0.1-SNAPSHOT</version>
+<version>1</version>
 <description>this is trial version</description>
 </project>
